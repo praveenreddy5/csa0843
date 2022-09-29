@@ -39,3 +39,6 @@
 39. traingulararray.py
 40. skippingnumbers.py
 41. combitations.py
+42. sumsquares of even and odd.py
+43. listadd.py
+44. 
