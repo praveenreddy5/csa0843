@@ -1,40 +1,40 @@
-Anagrams.py
-Area of the circle.py
-Arithmetic operations.py
-Binary to decimal.py
-Bread Loaves.py
-Factorial.py
-Fibonacci series.py
-Greatest among two.py
-Hollow Square Dollar Pattern.py
-Largest number among three.py
-Largest number.py
-Number Of Factors.py
-Odd or Even.py
-Palindrome.py
-Pascal Pattern1 11 121 1331 14641.py
-Perfect number.py
-Prime & Composite.py
-Reverse a number.py
-Simple Interest.py
-Stair Case.py
-Username Verification.py
-Username.py
-Vote Eligibility.py
-Words & Characyters.py
-factorialandnooffactor.py
-factorialsum.py
-firstnperfectandmfactor.py
-loavedbread.py
-matches.py
-mirror.py
-mthmaxandnthmin.py
-onlinecost.py
-pattern.py
-patternindecimal.py
-readnumberuntil.py
-readprogramuntil.py
-reversingnumber.py
-sumanddifference.py
-traingulararray.py
-skippingnumbers.py
+1. Anagrams.py
+2. Area of the circle.py
+3. Arithmetic operations.py
+4. Binary to decimal.py
+5. Bread Loaves.py
+6. Factorial.py
+7. Fibonacci series.py
+8. Greatest among two.py
+9. Hollow Square Dollar Pattern.py
+10. Largest number among three.py
+11. Largest number.py
+12. Number Of Factors.py
+13. Odd or Even.py
+14. Palindrome.py
+15. Pascal Pattern1 11 121 1331 14641.py
+16. Perfect number.py
+17. Prime & Composite.py
+18. Reverse a number.py
+19. Simple Interest.py
+20. Stair Case.py
+21. Username Verification.py
+22. Username.py
+23. Vote Eligibility.py
+24. Words & Characyters.py
+25. factorialandnooffactor.py
+26. factorialsum.py
+27. firstnperfectandmfactor.py
+28. loavedbread.py
+29. matches.py
+30. mirror.py
+31. mthmaxandnthmin.py
+32. onlinecost.py
+33. pattern.py
+34. patternindecimal.py
+35. readnumberuntil.py
+36. readprogramuntil.py
+37. reversingnumber.py
+38. sumanddifference.py
+39. traingulararray.py
+40. skippingnumbers.py
