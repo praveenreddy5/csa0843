@@ -43,3 +43,4 @@
 43. listadd
 44. simple interest
 45. xpalindrome
+46. consonantsvowelsseperate.py
