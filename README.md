@@ -37,3 +37,4 @@ readprogramuntil.py
 reversingnumber.py
 sumanddifference.py
 traingulararray.py
+skippingnumbers.py
