@@ -38,7 +38,7 @@
 38. sumanddifference
 39. traingulararray
 40. skippingnumbers
-41. combitations
+41. Combinations
 42. sumsquares of even and odd
 43. listadd
 44. 
