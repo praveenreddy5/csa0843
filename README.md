@@ -46,3 +46,4 @@
 46. consonantsvowelsseperate
 47. m to n key skipping
 48. Max no of words in a sentence.py
+49. Simple interest according to age
