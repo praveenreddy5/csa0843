@@ -50,3 +50,5 @@
 50. square and cubic
 51. staff users
 52. reverse
+53. wordsaccendingdecending
+54. countvowels
